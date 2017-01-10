@@ -1,0 +1,11 @@
+bt_pub = "BTC38_PUBLICKEY"
+bt_id = "BTC38ID"
+bt_skey = "BTC38_SECRETKEY"
+polo_sign = "POLONIEX_SIGNKEY"
+polo_secret = "POLONIEX_SECRETKEY"
+telegram_token = "TELEGRAM_TOKEN"
+fb_user = "FACEBOOK_USERNAME"
+fb_pwd = "FACEBOOK_PASSWORD"
+
+bt_btc_address = "BTC38_BTCADDRESS"
+polo_bts_memo = "POLONIEX_BTS_DEPOSITMEMO"
